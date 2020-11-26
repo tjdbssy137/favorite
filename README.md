@@ -12,5 +12,19 @@
  Designer 창과 Blocks창으로 나뉘며, 스크래치처럼 Blocks 창에서 코딩을 하여 간단한 앱(알람, 터치 횟수 세기. etc)이나 게임을 제작할 수 있음.
  
 ---
-<시작 화면의 Designer>
+<시작 화면>
+ * Designer
+ <img src = https://user-images.githubusercontent.com/65931605/100345377-96fcb880-3025-11eb-950e-a5add2f1c491.png height=200 width=300>
+ * Blocks
+ <img src = height=200 width=300>
  
+ <게임 화면>
+ * Designer
+ <img src = https://user-images.githubusercontent.com/65931605/100345379-982de580-3025-11eb-8cb7-7eeea478995f.png height=200 width=300>
+ * Blocks
+ <img src = height=200 width=300>
+ ---
+ <실행 화면>
+ <img src = https://user-images.githubusercontent.com/65931605/100345383-98c67c00-3025-11eb-8a86-102fc9eaa587.jpg height=200 width=150>
+ <img src = https://user-images.githubusercontent.com/65931605/100345384-995f1280-3025-11eb-8595-3e7fe305e0f3.jpg height=200 width=150>
+ <img src = https://user-images.githubusercontent.com/65931605/100345385-995f1280-3025-11eb-868e-e83b3cb13e72.jpg height=200 width=150>
