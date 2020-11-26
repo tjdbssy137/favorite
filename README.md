@@ -15,15 +15,15 @@
 
 <시작 화면>
  * Designer
- <img src = https://user-images.githubusercontent.com/65931605/100345377-96fcb880-3025-11eb-950e-a5add2f1c491.png height=400 width=350>
+<img src = https://user-images.githubusercontent.com/65931605/100345377-96fcb880-3025-11eb-950e-a5add2f1c491.png height=400 width=350>
  * Blocks
- <img src = https://user-images.githubusercontent.com/65931605/100345975-76812e00-3026-11eb-8c60-59f484751faf.png height=250 width=550>
+<img src = https://user-images.githubusercontent.com/65931605/100345975-76812e00-3026-11eb-8c60-59f484751faf.png height=250 width=550>
  
  <게임 화면>
  * Designer
- <img src = https://user-images.githubusercontent.com/65931605/100345379-982de580-3025-11eb-8cb7-7eeea478995f.png height=400 width=350>
+<img src = https://user-images.githubusercontent.com/65931605/100345379-982de580-3025-11eb-8cb7-7eeea478995f.png height=400 width=350>
  * Blocks
- <img src = https://user-images.githubusercontent.com/65931605/100345977-784af180-3026-11eb-9d30-583fc7f5ae4f.png height=250 width=550>
+<img src = https://user-images.githubusercontent.com/65931605/100345977-784af180-3026-11eb-9d30-583fc7f5ae4f.png height=250 width=550>
 
 ---
  <실행 화면>
