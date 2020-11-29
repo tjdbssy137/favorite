@@ -40,4 +40,5 @@
 
 ---
 ### <프로젝트 파일>
+[![Video Label](https://img.youtube.com/vi/_915LIrSaNI/0.jpg)](https://youtu.be/_915LIrSaNI)
 <https://github.com/tjdbssy137/favorite/files/5612207/default.zip>
